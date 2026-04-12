@@ -1,0 +1,4 @@
+com/testsimfintech/RuleBasedEngineTest.class
+com/testsimfintech/LlmAugmentedEngineTest.class
+com/testsimfintech/CoverageScoreServiceTest.class
+com/testsimfintech/TestSimControllerTest.class
